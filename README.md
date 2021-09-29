@@ -5,7 +5,7 @@
 - 📫 How to reach me entirelylively@gmail.com
 
 ![EntirelyLively's GitHub stats](https://github-readme-stats.vercel.app/api?username=entirelylively&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entirelylivley&layout=compact)](https://github.com/entirelylively/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entirelylively&layout=compact)](https://github.com/entirelylively/github-readme-stats)
 
 
 <!---
